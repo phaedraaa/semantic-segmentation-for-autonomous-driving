@@ -15,11 +15,11 @@ import matplotlib.pyplot as plt
 # ---------------------------
 # PATHS
 # ---------------------------
-IMG_TRAIN_DIR = "/home/faidbogi/ads/bdd100k_images_10k/10k/train"
-IMG_VAL_DIR   = "/home/faidbogi/ads/bdd100k_images_10k/10k/val"
+IMG_TRAIN_DIR = "/bdd100k_images_10k/10k/train"
+IMG_VAL_DIR   = "/bdd100k_images_10k/10k/val"
 
-MASK_TRAIN_DIR = "/home/faidbogi/ads/bdd100k_seg_maps/labels/train"
-MASK_VAL_DIR   = "/home/faidbogi/ads/bdd100k_seg_maps/labels/val"
+MASK_TRAIN_DIR = "/bdd100k_seg_maps/labels/train"
+MASK_VAL_DIR   = "/bdd100k_seg_maps/labels/val"
 
 SAVE_DIR = "./results_deeplab"
 CHECKPOINT_DIR = "./models_deeplab"
