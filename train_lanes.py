@@ -14,8 +14,8 @@ import matplotlib.pyplot as plt
 # ==========================================
 # PATHS
 # ==========================================
-TRAIN_IMG_DIR = "/home/faidbogi/ads/bdd100k_images_10k/10k/train" 
-TRAIN_MASK_DIR = "/home/faidbogi/ads/bdd100k_lane_masks/train" 
+TRAIN_IMG_DIR = "/bdd100k_images_10k/10k/train" 
+TRAIN_MASK_DIR = "/bdd100k_lane_masks/train" 
 
 MODELS_DIR = "models_lanes"
 RESULTS_DIR = "results_lanes"
