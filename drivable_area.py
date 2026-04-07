@@ -14,8 +14,8 @@ import matplotlib.pyplot as plt
 # ==========================================
 # PATHS
 # ==========================================
-TRAIN_IMG_DIR = "/home/faidbogi/ads/bdd100k_images_10k/10k/train" 
-TRAIN_MASK_DIR = "/home/faidbogi/ads/bdd100k_drivable_maps/labels/train" 
+TRAIN_IMG_DIR = "/bdd100k_images_10k/10k/train" 
+TRAIN_MASK_DIR = "/bdd100k_drivable_maps/labels/train" 
 
 # SAVE PATHS
 MODELS_DIR = "models_area"
